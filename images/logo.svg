@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="249" height="248" viewBox="0 0 249 248">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4de0bc;
+      }
+
+      .cls-2 {
+        font-size: 48px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Broadway;
+      }
+    </style>
+  </defs>
+  <image id="Layer_0" data-name="Layer 0" width="249" height="248" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPkAAAD4CAYAAAAuE0A1AAAC5klEQVR4nO3TAQ3AQBDDsNv4c+7ziGwKUb5tOyDrlxbaTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncogzOcSZHOJMDnEmhziTQ5zJIc7kEGdyiDM5xJkc4kwOcSaHOJNDnMkhzuQQZ3KIMznEmRziTA5xJoc4k0OcySHO5BBncii7uwfGTgXsdIgV1gAAAABJRU5ErkJggg=="/>
+  <ellipse class="cls-1" cx="124.5" cy="123.75" rx="123.75" ry="123.75"/>
+  <text id="J" class="cls-2" transform="matrix(2.046, -0.335, -0.433, 1.342, 64.047, 140.65)"><tspan x="0">J</tspan></text>
+  <text id="v" class="cls-2" transform="translate(66.98 116.088) scale(1.612)"><tspan x="0">v</tspan></text>
+  <text id="P" class="cls-2" transform="translate(122.03 79.799) scale(1.612)"><tspan x="0">P</tspan></text>
+</svg>
